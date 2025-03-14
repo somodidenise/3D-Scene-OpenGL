@@ -70,7 +70,7 @@ A real-time 3D landscape rendering project developed in **C++** using **OpenGL**
 
 
 ## ✨ Screenshot
-![3D Scene](scene/3d_scene.png)
+![3D Scene](scene/3D_scene.png)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
